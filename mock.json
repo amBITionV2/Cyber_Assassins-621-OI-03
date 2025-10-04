@@ -1,0 +1,244 @@
+{
+  "dashboardStats": [
+    {
+      "label": "S&P 500",
+      "value": "5,420.18",
+      "description": "INDEX LEVEL",
+      "intent": "positive",
+      "icon": "gear",
+      "direction": "up",
+      "tag": "▲ 0.8%"
+    },
+    {
+      "label": "VIX INDEX",
+      "value": "12.4",
+      "description": "VOLATILITY",
+      "intent": "neutral",
+      "icon": "proccesor",
+      "direction": "down",
+      "tag": "▼ 2.1%"
+    },
+    {
+      "label": "TOP GAINER",
+      "value": "NVDA",
+      "description": "INTRADAY LEADER",
+      "intent": "positive",
+      "icon": "boom",
+      "tag": "▲ 4.2%"
+    },
+    {
+      "label": "NASDAQ",
+      "value": "17,025.88",
+      "description": "TECH INDEX",
+      "intent": "positive",
+      "icon": "gear",
+      "direction": "up",
+      "tag": "▲ 1.2%"
+    }
+  ],
+  "chartData": {
+    "day": [
+      { "date": "09:30", "price": 228.2, "volume": 5200, "marketCap": 3420 },
+      { "date": "10:30", "price": 229.8, "volume": 8600, "marketCap": 3445 },
+      { "date": "11:30", "price": 230.2, "volume": 10200, "marketCap": 3455 },
+      { "date": "12:30", "price": 229.6, "volume": 9800, "marketCap": 3440 },
+      { "date": "13:30", "price": 230.4, "volume": 11200, "marketCap": 3460 },
+      { "date": "14:30", "price": 231.5, "volume": 12500, "marketCap": 3475 },
+      { "date": "15:30", "price": 228.9, "volume": 13600, "marketCap": 3435 }
+    ],
+    "week": [
+      { "date": "Mon", "price": 225.0, "volume": 50000, "marketCap": 3380 },
+      { "date": "Tue", "price": 227.5, "volume": 55000, "marketCap": 3415 },
+      { "date": "Wed", "price": 226.0, "volume": 48000, "marketCap": 3395 },
+      { "date": "Thu", "price": 229.8, "volume": 62000, "marketCap": 3450 },
+      { "date": "Fri", "price": 228.9, "volume": 58000, "marketCap": 3435 }
+    ],
+    "month": [
+      { "date": "Jan", "price": 185.0, "volume": 180000, "marketCap": 2850 },
+      { "date": "Feb", "price": 192.0, "volume": 220000, "marketCap": 2960 },
+      { "date": "Mar", "price": 198.5, "volume": 280000, "marketCap": 3065 },
+      { "date": "Apr", "price": 205.0, "volume": 260000, "marketCap": 3165 },
+      { "date": "May", "price": 215.0, "volume": 350000, "marketCap": 3320 },
+      { "date": "Jun", "price": 210.0, "volume": 290000, "marketCap": 3240 },
+      { "date": "Jul", "price": 220.0, "volume": 320000, "marketCap": 3395 },
+      { "date": "Aug", "price": 217.0, "volume": 270000, "marketCap": 3350 },
+      { "date": "Sep", "price": 222.0, "volume": 300000, "marketCap": 3425 },
+      { "date": "Oct", "price": 224.0, "volume": 340000, "marketCap": 3460 },
+      { "date": "Nov", "price": 226.5, "volume": 380000, "marketCap": 3495 },
+      { "date": "Dec", "price": 228.9, "volume": 420000, "marketCap": 3535 }
+    ],
+    "year": [
+      { "date": "2020", "price": 132.0, "volume": 580000, "marketCap": 2040 },
+      { "date": "2021", "price": 165.0, "volume": 650000, "marketCap": 2545 },
+      { "date": "2022", "price": 148.0, "volume": 950000, "marketCap": 2285 },
+      { "date": "2023", "price": 178.0, "volume": 820000, "marketCap": 2745 },
+      { "date": "2024", "price": 228.9, "volume": 920000, "marketCap": 3535 }
+    ],
+    "max": [
+      { "date": "2019", "price": 75.0, "volume": 320000, "marketCap": 1160 },
+      { "date": "2020", "price": 132.0, "volume": 580000, "marketCap": 2040 },
+      { "date": "2021", "price": 165.0, "volume": 650000, "marketCap": 2545 },
+      { "date": "2022", "price": 148.0, "volume": 950000, "marketCap": 2285 },
+      { "date": "2023", "price": 178.0, "volume": 820000, "marketCap": 2745 },
+      { "date": "2024", "price": 228.9, "volume": 920000, "marketCap": 3535 }
+    ]
+  },
+  "rebelsRanking": [
+    {
+      "id": 1,
+      "name": "Apple Inc.",
+      "handle": "AAPL",
+      "streak": "▲ 2.1%",
+      "points": 228.9,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "featured": true,
+      "subtitle": "52W HIGH $237.23",
+      "change": 2.1
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "handle": "MSFT",
+      "streak": "▲ 1.8%",
+      "points": 415.7,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "change": 1.8
+    },
+    {
+      "id": 3,
+      "name": "NVIDIA",
+      "handle": "NVDA",
+      "streak": "▲ 4.2%",
+      "points": 128.4,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "change": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Tesla",
+      "handle": "TSLA",
+      "streak": "▼ 1.2%",
+      "points": 245.8,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "change": -1.2
+    }
+  ],
+  "losers": [
+    {
+      "id": 1,
+      "name": "Meta Platforms",
+      "handle": "META",
+      "streak": "▼ 3.5%",
+      "points": 485.2,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "change": -3.5
+    },
+    {
+      "id": 2,
+      "name": "Netflix",
+      "handle": "NFLX",
+      "streak": "▼ 2.8%",
+      "points": 612.4,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "change": -2.8
+    },
+    {
+      "id": 3,
+      "name": "PayPal",
+      "handle": "PYPL",
+      "streak": "▼ 2.1%",
+      "points": 68.9,
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "change": -2.1
+    }
+  ],
+  "securityStatus": [
+    {
+      "title": "GUARD BOTS",
+      "value": "124/124",
+      "status": "[RUNNING...]",
+      "variant": "success"
+    },
+    {
+      "title": "FIREWALL",
+      "value": "99.9%",
+      "status": "[BLOCKED]",
+      "variant": "success"
+    },
+    {
+      "title": "HTML WARNINGS",
+      "value": "12042",
+      "status": "[ACCESSIBILITY]",
+      "variant": "warning"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "title": "TESLA Q3 DELIVERIES BEAT EXPECTATIONS",
+      "message": "Tesla reported 462,890 vehicle deliveries in Q3, exceeding analyst estimates of 455,000.",
+      "timestamp": "2024-07-10T13:39:00Z",
+      "type": "success",
+      "read": false,
+      "priority": "high"
+    },
+    {
+      "id": "notif-2",
+      "title": "FEDERAL RESERVE HINTS AT RATE CUTS",
+      "message": "Fed Chair signals potential interest rate reductions in upcoming meetings amid cooling inflation.",
+      "timestamp": "2024-07-10T13:35:00Z",
+      "type": "info",
+      "read": false,
+      "priority": "high"
+    },
+    {
+      "id": "notif-3",
+      "title": "MICROSOFT HITS NEW ALL-TIME HIGH",
+      "message": "MSFT shares reached $420.50, driven by strong cloud computing revenue growth.",
+      "timestamp": "2024-07-10T12:15:00Z",
+      "type": "success",
+      "read": true,
+      "priority": "medium"
+    },
+    {
+      "id": "notif-4",
+      "title": "APPLE ANNOUNCES Q4 EARNINGS DATE",
+      "message": "AAPL scheduled to report quarterly earnings on October 31st after market close.",
+      "timestamp": "2024-07-10T11:45:00Z",
+      "type": "info",
+      "read": true,
+      "priority": "medium"
+    },
+    {
+      "id": "notif-5",
+      "title": "NVIDIA STOCK SPLIT ANNOUNCED",
+      "message": "NVDA announces 10-for-1 stock split effective next month to improve accessibility.",
+      "timestamp": "2024-07-10T10:20:00Z",
+      "type": "info",
+      "read": true,
+      "priority": "low"
+    }
+  ],
+  "widgetData": {
+    "location": "Buenos Aires, Argentina",
+    "timezone": "UTC-3",
+    "temperature": "18°C",
+    "weather": "Partly Cloudy",
+    "date": "Wednesday, July 10th, 2025"
+  },
+  "fundamentals": {
+    "symbol": "AAPL",
+    "marketCap": "3.4T",
+    "pe": "34.5",
+    "eps": "6.12",
+    "dividendYield": "0.50%",
+    "beta": "1.28",
+    "range52W": "164.08 - 237.23",
+    "volume": "32.1M",
+    "avgVolume": "54.7M"
+  },
+  "stockSummary": {
+    "symbol": "AAPL",
+    "summary": "Apple Inc. is showing strong momentum with a 2.1% gain this week, trading near its 52-week high. The company's recent iPhone 15 launch has driven increased investor confidence, with analysts forecasting continued growth through Q4. Strong services revenue and expanding market share in emerging markets support the bullish outlook."
+  }
+}
